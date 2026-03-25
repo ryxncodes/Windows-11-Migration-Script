@@ -1,5 +1,5 @@
 #Requires -RunAsAdministrator
-# Written by Ryan Kane 3/5/2026
+# Written by Ryan 3/5/2026; optimized 3/24/2026 and added hard drive checks
 
 $pass = "[" + [char]0x2713 + "]"
 $fail = "[X]"
