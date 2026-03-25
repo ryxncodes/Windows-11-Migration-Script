@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Bypass -Command "Start-Process PowerShell -ArgumentList '-ExecutionPolicy Bypass -File ""%~dp0win11Requirements.ps1""' -Verb RunAs"
